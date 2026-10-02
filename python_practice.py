@@ -13,7 +13,8 @@ for i in salaries:
        second_highest = i
 
 print("second_highest",second_highest)
-
+ 
+ # done cleaning
 
 
 #Task: Find the frequency of each number
